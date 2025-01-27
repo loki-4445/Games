@@ -5,7 +5,7 @@ This is a simple, interactive Tic Tac Toe game built with HTML, CSS, and JavaScr
 ## Website URL
 
 The website is live and can be accessed at:  
-[AI Website on Computer Literacy](https://lokesh-tic-tac-teo.netlify.app/)
+[Play Tic-Tac-Toe](https://lokesh-tic-tac-teo.netlify.app/)
 
 ## Features
 
