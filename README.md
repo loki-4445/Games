@@ -2,6 +2,11 @@
 
 This is a simple, interactive Tic Tac Toe game built with HTML, CSS, and JavaScript. Players can take turns to play the classic game, and the application will display the winner or a draw. A reset button allows the game to restart.
 
+## Website URL
+
+The website is live and can be accessed at:  
+[AI Website on Computer Literacy](https://lokesh-tic-tac-teo.netlify.app/)
+
 ## Features
 
 - **Interactive Gameplay**: Two players (X and O) can take turns.
@@ -28,3 +33,5 @@ To run this game locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
+
+   
